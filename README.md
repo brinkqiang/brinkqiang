@@ -1,4 +1,6 @@
-### Hi github world 😄   [visitor counter] ![visitor counter](https://profile-counter.glitch.me/brinkqiang/count.svg)
+### Hi github world 😄   
+
+- ![visitor counter](https://profile-counter.glitch.me/brinkqiang/count.svg)
 
 <!--
 **brinkqiang/brinkqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
