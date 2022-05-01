@@ -1,4 +1,4 @@
-### Hi github world 😄
+### Hi github world 😄 ![visitor counter](https://profile-counter.glitch.me/brinkqiang/count.svg)
 
 <!--
 **brinkqiang/brinkqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brinkqiang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brinkqiang&theme=github)
 
-![visitor counter](https://profile-counter.glitch.me/brinkqiang/count.svg)
+
