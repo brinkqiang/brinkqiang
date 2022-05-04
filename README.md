@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## [codegen](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmsolpp&count_private=true)](https://github.com/brinkqiang/dmsolpp)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmormpp&count_private=true)](https://github.com/brinkqiang/dmormpp)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmorm&count_private=true)](https://github.com/brinkqiang/dmorm)
 
 ## [cpp module](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmtimer&count_private=true)](https://github.com/brinkqiang/dmtimer)
