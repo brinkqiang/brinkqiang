@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brinkqiang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brinkqiang&theme=github)
 
-## [CGT]
+## [CGT](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmsolpp)](https://github.com/brinkqiang/dmsolpp)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmormpp)](https://github.com/brinkqiang/dmormpp)
 
-## [LSM]
+## [LSM](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luapb)](https://github.com/brinkqiang/luapb)
 
-## [DE]
+## [DE](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=vscode-ssh)](https://github.com/brinkqiang/vscode-ssh)
 
