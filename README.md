@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ## [lua module](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luapb)](https://github.com/brinkqiang/luapb)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luafmt)](https://github.com/brinkqiang/luafmt)
 
 ## [env](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=vscode-ssh)](https://github.com/brinkqiang/vscode-ssh)
