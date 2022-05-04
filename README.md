@@ -1,4 +1,4 @@
-### Hi github world 😄   
+### Hi there, I'm bbq!  😄   
 - <a title="Hits" target="_blank" href="https://github.com/brinkqiang/brinkqiang"><img src="https://hits.b3log.org/brinkqiang/brinkqiang.svg"></a>
 
 
