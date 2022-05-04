@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 ## [lua module](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luapb)](https://github.com/brinkqiang/luapb)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luaftpserver)](https://github.com/brinkqiang/luaftpserver)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luaftpserver&count_private=true)](https://github.com/brinkqiang/luaftpserver)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luatimer)](https://github.com/brinkqiang/luatimer)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luafmt)](https://github.com/brinkqiang/luafmt)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luauuid)](https://github.com/brinkqiang/luauuid)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luauuid&count_private=true)](https://github.com/brinkqiang/luauuid)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luacrypto)](https://github.com/brinkqiang/luacrypto)
 
 ## [env](https://github.com/brinkqiang)
