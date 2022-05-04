@@ -1,4 +1,5 @@
-### Hi github world 😄   
+### Hi github world 😄   ### <a title="Hits" target="_blank" href="https://github.com/brinkqiang/brinkqiang"><img src="https://hits.b3log.org/brinkqiang/brinkqiang.svg"></a>
+
 
 
 <!--
@@ -22,4 +23,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brinkqiang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brinkqiang&theme=github)
 
-### <a title="Hits" target="_blank" href="https://github.com/brinkqiang/brinkqiang"><img src="https://hits.b3log.org/brinkqiang/brinkqiang.svg"></a>
