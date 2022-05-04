@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 ## [brinkqiang](https://github.com/brinkqiang)
 
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmtimer)](https://github.com/brinkqiang/dmtimer)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmlua)](https://github.com/brinkqiang/dmlua)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmsolpp)](https://github.com/brinkqiang/dmsolpp)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmormpp)](https://github.com/brinkqiang/dmormpp)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=vscode-ssh)](https://github.com/brinkqiang/vscode-ssh)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luapb)](https://github.com/brinkqiang/luapb)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=vscode-ssh)](https://github.com/brinkqiang/vscode-ssh)
+
