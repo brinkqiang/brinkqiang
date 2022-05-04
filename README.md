@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brinkqiang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brinkqiang&theme=github)
 
-## [tboox](https://github.com/tboox)
+## [brinkqiang](https://github.com/brinkqiang)
 
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=ltui)](https://github.com/tboox/ltui)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=vm86)](https://github.com/tboox/vm86)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmlua)](https://github.com/brinkqiang/dmlua)
 
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=gbox)](https://github.com/tboox/gbox)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=tboox&repo=dexbox)](https://github.com/tboox/dexbox)
