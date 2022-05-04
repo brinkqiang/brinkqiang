@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## [cpp module](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmtimer)](https://github.com/brinkqiang/dmtimer)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmtimer)](https://github.com/brinkqiang/dmlua)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmlua)](https://github.com/brinkqiang/dmlua)
 
 ## [lua module](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luapb)](https://github.com/brinkqiang/luapb)
