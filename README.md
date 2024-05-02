@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 - 🚀 [google](https://github.com/google)
 - 🚀 [microsoft](https://github.com/microsoft)
+- 🚀 [apple](https://github.com/apple)
 - 🚀 [facebook](https://github.com/facebook)
 
 - 🚀 [alibaba](https://github.com/alibaba)
