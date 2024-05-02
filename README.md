@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmcurl&count_private=true)](https://github.com/brinkqiang/dmcurl)
 
 ## [navigation](https://github.com/brinkqiang)
-[![ReadMe Card](https://github.com/google)](https://github.com/google)
+
+- 🚀 [google](https://github.com/google)
 
