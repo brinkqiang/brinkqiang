@@ -52,4 +52,9 @@ Here are some ideas to get you started:
 ## [navigation](https://github.com/brinkqiang)
 
 - 🚀 [google](https://github.com/google)
+- 🚀 [microsoft](https://github.com/microsoft)
+- 🚀 [facebook](https://github.com/facebook)
 
+- 🚀 [alibaba](https://github.com/alibaba)
+- 🚀 [Tencent](https://github.com/Tencent)
+  
