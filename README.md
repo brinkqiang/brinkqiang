@@ -57,4 +57,5 @@ Here are some ideas to get you started:
 
 - 🚀 [alibaba](https://github.com/alibaba)
 - 🚀 [Tencent](https://github.com/Tencent)
-  
+- 🚀 [baidu](https://github.com/baidu)
+
