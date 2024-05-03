@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luajson&count_private=true)](https://github.com/brinkqiang/luajson)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luauuid&count_private=true)](https://github.com/brinkqiang/luauuid)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luacrypto&count_private=true)](https://github.com/brinkqiang/luacrypto)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luafmt&count_private=true)](https://github.com/brinkqiang/luafmt)
 
 ## [env](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmremote_development&count_private=true)](https://github.com/brinkqiang/dmremote_development)
