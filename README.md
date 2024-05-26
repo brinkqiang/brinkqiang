@@ -1,4 +1,6 @@
 ### Hi there, I'm brinkqiang!  😄   
+I'm currently developing game servers and specialize in C/C++, Lua, and Python. My current focus is enhancing the C++ development environment. It's a pleasure to meet you!
+
 - <a title="Hits" target="_blank" href="https://github.com/brinkqiang/brinkqiang"><img src="https://hits.b3log.org/brinkqiang/brinkqiang.svg"></a>
 
 
