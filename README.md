@@ -1,4 +1,5 @@
-### Hi there, I'm brinkqiang! The cosmos thrives in ceaseless motion; the wise cultivate themselves without rest! 😄   
+### Hi there, I'm brinkqiang! 
+### The cosmos thrives in ceaseless motion; the wise cultivate themselves without rest! 😄   
 
 - <a title="Hits" target="_blank" href="https://github.com/brinkqiang/brinkqiang"><img src="https://hits.b3log.org/brinkqiang/brinkqiang.svg"></a>
 
