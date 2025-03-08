@@ -38,11 +38,7 @@ Here are some ideas to get you started:
 ## [lua module](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luapb&count_private=true)](https://github.com/brinkqiang/luapb)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luatimer&count_private=true)](https://github.com/brinkqiang/luatimer)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luajson&count_private=true)](https://github.com/brinkqiang/luajson)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luauuid&count_private=true)](https://github.com/brinkqiang/luauuid)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luacrypto&count_private=true)](https://github.com/brinkqiang/luacrypto)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luafmt&count_private=true)](https://github.com/brinkqiang/luafmt)
-[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luaipdb&count_private=true)](https://github.com/brinkqiang/luaipdb)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luaftpserver&count_private=true)](https://github.com/brinkqiang/luaftpserver)
 
 ## [python module](https://github.com/brinkqiang)
