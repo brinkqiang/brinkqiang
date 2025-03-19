@@ -73,3 +73,16 @@ Here are some ideas to get you started:
 
 - 🚀 [Qihoo360](https://github.com/Qihoo360)
 
+| 组织 | 仓库数 | 链接 |
+|------|--------|------|
+| - 🚀 Apache | ![apache-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fapache&query=%24.public_repos&label=%20) | [apache](https://github.com/apache) |
+| - 🚀 Google | ![google-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fgoogle&query=%24.public_repos&label=%20) | [google](https://github.com/google) |
+| - 🚀 Microsoft | ![microsoft-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fmicrosoft&query=%24.public_repos&label=%20) | [microsoft](https://github.com/microsoft) |
+| - 🚀 Apple | ![apple-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fapple&query=%24.public_repos&label=%20) | [apple](https://github.com/apple) |
+| - 🚀 Facebook | ![facebook-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Ffacebook&query=%24.public_repos&label=%20) | [facebook](https://github.com/facebook) |
+| - 🚀 Alibaba | ![alibaba-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Falibaba&query=%24.public_repos&label=%20) | [alibaba](https://github.com/alibaba) |
+| - 🚀 Tencent | ![tencent-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FTencent&query=%24.public_repos&label=%20) | [Tencent](https://github.com/Tencent) |
+| - 🚀 Bytedance | ![bytedance-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fbytedance&query=%24.public_repos&label=%20) | [bytedance](https://github.com/bytedance) |
+| - 🚀 Baidu | ![baidu-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fbaidu&query=%24.public_repos&label=%20) | [baidu](https://github.com/baidu) |
+| - 🚀 Qihoo360 | ![qihoo360-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FQihoo360&query=%24.public_repos&label=%20) | [Qihoo360](https://github.com/Qihoo360) |
+
