@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 | Organization | Repositories | Link |
 |------|--------|------|
+| - 🚀 Microsoft | ![microsoft-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fmicrosoft&query=%24.public_repos&label=%20) | [microsoft](https://github.com/microsoft) |
 | - 🚀 Apache | ![apache-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fapache&query=%24.public_repos&label=%20) | [apache](https://github.com/apache) |
 | - 🚀 Google | ![google-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fgoogle&query=%24.public_repos&label=%20) | [google](https://github.com/google) |
-| - 🚀 Microsoft | ![microsoft-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fmicrosoft&query=%24.public_repos&label=%20) | [microsoft](https://github.com/microsoft) |
 | - 🚀 Apple | ![apple-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fapple&query=%24.public_repos&label=%20) | [apple](https://github.com/apple) |
 | - 🚀 Facebook | ![facebook-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Ffacebook&query=%24.public_repos&label=%20) | [facebook](https://github.com/facebook) |
 | - 🚀 Openai | ![openai-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fopenai&query=%24.public_repos&label=%20) | [openai](https://github.com/openai) |
