@@ -58,22 +58,7 @@ Here are some ideas to get you started:
 
 ## [navigation](https://github.com/brinkqiang)
 
-- 🚀 [apache](https://github.com/apache)
-
-- 🚀 [google](https://github.com/google)
-- 🚀 [microsoft](https://github.com/microsoft)
-- 🚀 [apple](https://github.com/apple)
-- 🚀 [facebook](https://github.com/facebook)
-
-- 🚀 [alibaba](https://github.com/alibaba)
-- 🚀 [Tencent](https://github.com/Tencent)
-
-- 🚀 [bytedance](https://github.com/bytedance)
-- 🚀 [baidu](https://github.com/baidu)
-
-- 🚀 [Qihoo360](https://github.com/Qihoo360)
-
-| 组织 | 仓库数 | 链接 |
+| Organization | Repositories | Link |
 |------|--------|------|
 | - 🚀 Apache | ![apache-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fapache&query=%24.public_repos&label=%20) | [apache](https://github.com/apache) |
 | - 🚀 Google | ![google-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fgoogle&query=%24.public_repos&label=%20) | [google](https://github.com/google) |
