@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 | Organization | Repositories | Link |
 |------|--------|------|
 | - 🚀 Alibaba | ![alibaba-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Falibaba&query=%24.public_repos&label=%20) | [alibaba](https://github.com/alibaba) |
-| - 🚀 Tencent | ![tencent-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FTencent&query=%24.public_repos&label=%20) | [Tencent](https://github.com/Tencent) |
 | - 🚀 Bytedance | ![bytedance-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fbytedance&query=%24.public_repos&label=%20) | [bytedance](https://github.com/bytedance) |
+| - 🚀 Tencent | ![tencent-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FTencent&query=%24.public_repos&label=%20) | [Tencent](https://github.com/Tencent) |
 | - 🚀 Baidu | ![baidu-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fbaidu&query=%24.public_repos&label=%20) | [baidu](https://github.com/baidu) |
 | - 🚀 Qihoo360 | ![qihoo360-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FQihoo360&query=%24.public_repos&label=%20) | [Qihoo360](https://github.com/Qihoo360) |
 | - 🚀 DeepSeek | ![deepseek-repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fdeepseek-ai&query=%24.public_repos&label=%20) | [deepseek-ai](https://github.com/deepseek-ai) |
