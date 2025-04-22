@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=luaftpserver&count_private=true)](https://github.com/brinkqiang/luaftpserver)
 
 ## [python module](https://github.com/brinkqiang)
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=pytimer&count_private=true)](https://github.com/brinkqiang/pytimer)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=pycrypto&count_private=true)](https://github.com/brinkqiang/pycrypto)
+
 
 ## [env](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmremote_development&count_private=true)](https://github.com/brinkqiang/dmremote_development)
