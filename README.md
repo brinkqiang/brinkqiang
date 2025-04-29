@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://raw.githubusercontent.com/brinkqiang/brinkqiang-env/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/brinkqiang/brinkqiang)
-[![](https://raw.githubusercontent.com/brinkqiang/brinkqiang-env/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/brinkqiang/brinkqiang)
-[![](https://raw.githubusercontent.com/brinkqiang/brinkqiang-env/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/brinkqiang/brinkqiang)
-[![](https://raw.githubusercontent.com/brinkqiang/brinkqiang-env/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/brinkqiang/brinkqiang) 
-[![](https://raw.githubusercontent.com/brinkqiang/brinkqiang-env/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/brinkqiang/brinkqiang)
-[![](https://raw.githubusercontent.com/brinkqiang/brinkqiang-env/master/profile-3d-contrib/profile-gitblock.svg)](https://github.com/brinkqiang/brinkqiang)
+[![](https://brinkqiang.github.io/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/brinkqiang/brinkqiang)
+[![](https://brinkqiang.github.io/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/brinkqiang/brinkqiang)
+[![](https://brinkqiang.github.io/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/brinkqiang/brinkqiang)
+[![](https://brinkqiang.github.io/profile-summary-card-output/github/3-stats.svg)](https://github.com/brinkqiang/brinkqiang) 
+[![](https://brinkqiang.github.io/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/brinkqiang/brinkqiang)
+[![](https://brinkqiang.github.io/profile-3d-contrib/profile-gitblock.svg)](https://github.com/brinkqiang/brinkqiang)
 
 ## [codegen](https://github.com/brinkqiang)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmsolpp&count_private=true)](https://github.com/brinkqiang/dmsolpp)
