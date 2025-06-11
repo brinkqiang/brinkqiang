@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmvscode-cpp&count_private=true)](https://github.com/brinkqiang/dmvscode-cpp)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmcmake-tools&count_private=true)](https://github.com/brinkqiang/dmcmake-tools)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=gitac&count_private=true)](https://github.com/brinkqiang/gitac)
-
+[![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmcpp-env&count_private=true)](https://github.com/brinkqiang/dmcpp-env)
 [![ReadMe Card](https://github-readme-stats-ten.vercel.app/api/pin/?username=brinkqiang&repo=dmcpp-port&count_private=true)](https://github.com/brinkqiang/dmcpp-port)
 
 ## [cmake module](https://github.com/brinkqiang)
